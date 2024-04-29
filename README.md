@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Valera
 
-## Machine Learning Engineer at ![image](https://github.com/valer1435/valer1435/assets/32017472/35248b62-5f70-40da-9d71-b6077077d652)
+## Machine Learning Engineer at <a href="https://github.com/aimclub/FEDOT"><img src="[https://github.com/valer1435/valer1435/assets/32017472/3dd6c768-bfab-44a4-9229-cfd19dfb2d99](Huawei)" height="15"></a>  
 .
 
 - 🔭 I’m currently working in researn with LLMs
