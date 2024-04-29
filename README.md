@@ -2,7 +2,7 @@
 
 ## Machine Learning Engineer at <img src="https://github.com/valer1435/valer1435/assets/32017472/662d8571-0217-4a56-be9c-a858805a4653" height="30">.
 
-- 🔭 I’m currently working in researn with LLMs
+- 🔭 I’m currently working in research about LLMs
 - 🌱 I’m currently learning deep learning, natural language processing, and large language models.
 - Ex maintainer of <a href="https://github.com/aimclub/FEDOT"><img src="https://github.com/valer1435/valer1435/assets/32017472/3dd6c768-bfab-44a4-9229-cfd19dfb2d99" height="15"></a> and <a href="https://github.com/aimclub/Fedot.Industrial"><img src="https://github.com/valer1435/valer1435/assets/32017472/9fd2ca39-e524-4d52-817e-7bc25f4f5894" height="15"></a>.
 - 🎓 I have a bachelor's degree in Computer Science from <a href="https://english.spbstu.ru/"><img src="https://github.com/valer1435/valer1435/assets/32017472/042a2ef4-bcd5-4e4b-b034-5301c1070746" height="25" align="top"></a>.
