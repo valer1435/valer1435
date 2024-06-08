@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Valera
+# Hi there 👋, My name is Valera
 
 ## Machine Learning Engineer at <img src="https://github.com/valer1435/valer1435/assets/32017472/662d8571-0217-4a56-be9c-a858805a4653" height="30">.
 
