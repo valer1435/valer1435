@@ -26,7 +26,7 @@
    - Authors: Nikolay O. Nikitin, Maiia Pinchuk, Valerii Pokrovskii, Peter Shevchenko, Andrey Getmanov, Yaroslav Aksenkin, Ilia Revin, Andrey Stebenkov, Ekaterina Poslavskaya, Anna V. Kalyuzhnaya
    - Journal: ArXiv (preprint)
    - Year: 2023
-   - DOI: [Link to the DOI](https://doi.org/10.48550/arXiv.2312.14770)
+   - DOI: [Link to the DOI](https://www.sciencedirect.com/science/article/abs/pii/S0950705124009973)
 
 ## Contacts
 
