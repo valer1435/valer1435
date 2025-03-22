@@ -16,13 +16,19 @@
    - Year: 2024
    - DOI: [Link to the DOI](https://www.sciencedirect.com/science/article/abs/pii/S0950705124009973)
   
-2. **Improvement of Computational Performance of Evolutionary AutoML in a Heterogeneous Environment**
+2. **Topological Feature Generation In Automated Machine Learning For Time Series Forecasting**
+   - Authors: Valerii Pokrovskii, Ilia Revin, Vadim A. Potemkin, Sergey Kasianov, Nikolay O Nikitin
+   - Converence: AI4TS 2024 workshop (AAAI 2024)
+   - Year: 2024
+   - Paper: [Link](https://github.com/AI4TS/AI4TS.github.io/blob/main/CameraReadys%201-26/17%5CCameraReady%5CTS_Workshop_AAAI%20(10).pdf)
+  
+3. **Improvement of Computational Performance of Evolutionary AutoML in a Heterogeneous Environment**
    - Authors: Nikolay O Nikitin, Sergey Teryoshkin, Valerii Pokrovskii, Sergey Pakulin, Denis Nasonov
    - Conference: 2023 IEEE Congress on Evolutionary Computation (CEC)
    - Year: 2023
    - DOI: [Link to the DOI](https://doi.org/10.1109/CEC53210.2023.10254012)
   
-3. **Evolutionary automated machine learning for multi-scale decomposition and forecasting of sensor time series**
+4. **Evolutionary automated machine learning for multi-scale decomposition and forecasting of sensor time series**
    - Authors: Mikhail Sarafanov, Valerii Pokrovskii, Nikolay O Nikitin
    - Conference: 2022 IEEE Congress on Evolutionary Computation (CEC)
    - Year: 2022
