@@ -1,6 +1,7 @@
 # Hi there 👋, My name is Valera
 
-## Machine Learning Engineer at <img src="https://github.com/valer1435/valer1435/assets/32017472/662d8571-0217-4a56-be9c-a858805a4653" height="30">.
+## Machine Learning Engineer at ![image](https://github.com/user-attachments/assets/236d879c-9fc8-4eac-b745-f94c5245c659, height="15")
+.
 
 - 🔭 Doing cool things with LLMs
 - 🌱 Studying deep learning, natural language processing, and large language models.
